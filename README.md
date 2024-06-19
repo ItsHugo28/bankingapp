@@ -23,7 +23,6 @@ This application is a Java-based banking system that allows users to manage bank
 ## Technologies Used
 - **Java**: Core programming language for application logic.
 - **MySQL**: Database management system for storing customer and account data.
-- **JDBC (Java Database Connectivity)**: API for connecting Java applications to databases.
 - **Java Swing**: GUI toolkit for developing desktop applications in Java.
 
 ## Setup Instructions
